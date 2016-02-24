@@ -1,0 +1,9 @@
+cat,claw
+girl,hair
+boy,hair
+boy,telescope
+book,cover
+girl,hammer
+lady,bag
+man,hammer
+people,cat

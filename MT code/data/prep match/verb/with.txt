@@ -1,0 +1,4 @@
+play,friend
+kicking,sister
+hit,hammer
+scratch,claw

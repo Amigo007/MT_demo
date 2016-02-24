@@ -1,0 +1,4 @@
+as adj as . IN,CC . vt as adj as NN
+as adv as . IN,CC . vi as adv as NN;NN as adv as NN
+are not . vi . none
+is not . vi . none

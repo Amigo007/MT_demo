@@ -1,0 +1,8 @@
+﻿
+book sth
+is vt
+I sb
+mother sb
+write vi,vt
+boy sb
+give vi,vt
